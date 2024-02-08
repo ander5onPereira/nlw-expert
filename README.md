@@ -41,7 +41,7 @@ Aplicação foi desenvolvida na NLW Expert da Rocketseat, aplicação para reali
 
 ## 📄 Ambiente de produção
 
-Githube Pages para acessar [click aqui](https://ander5onpereira.github.io/nlw-expert/)
+Github Pages para acessar [click aqui](https://ander5onpereira.github.io/nlw-expert/)
 
 ## 📄 Licença
 
