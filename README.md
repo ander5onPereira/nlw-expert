@@ -1,30 +1,48 @@
-# React + TypeScript + Vite
+<p align="center">
+  <img alt="NLW Expert" src=".github/nlw_expert.png" width="180px">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000">
 
-Currently, two official plugins are available:
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img alt="Note NLW Expert" src=".github/aplication.png" width="100%">
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## ✨ Tecnologias
 
-- Configure the top-level `parserOptions` property like this:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- [React JS](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [ViteJS](https://vitejs.dev/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [radix-ui](https://www.radix-ui.com/)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 💻 Projeto
+
+Aplicação foi desenvolvida na NLW Expert da Rocketseat, aplicação para realizar anotações, com a opção de anotar o que falar convertendo a voz em texto.
+
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com `npm install`
+- Inicie o projeto em modo desenvolvedor com `npm run dev`
+
+## ⚙ Script e Deploy
+
+- Script de build: `npm run build`
+- Script de Preview: `npm run preview`
+
+## 📄 Ambiente de produção
+
+Githube Pages para acessar [click aqui](https://ander5onpereira.github.io/nlw-expert/)
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
