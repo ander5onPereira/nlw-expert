@@ -83,7 +83,7 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
           Adicionar nota
         </span>
         <p className="text-sm leading-6 text-slate-400">
-          Greve uma nota em áudio que será convertido para texto
+          Grave uma nota em áudio que será convertido para texto
           automaticamente.
         </p>
       </Dialog.Trigger>
